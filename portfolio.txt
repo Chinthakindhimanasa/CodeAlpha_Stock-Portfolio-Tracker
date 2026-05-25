@@ -1,0 +1,9 @@
+Stock Portfolio Details
+-------------------------
+Stock: AAPL, Quantity: 5, Price: 180, Investment: 900
+Stock: TSLA, Quantity: 7, Price: 250, Investment: 1750
+Stock: GOOG, Quantity: 13, Price: 150, Investment: 1950
+Stock: MSFT, Quantity: 2, Price: 300, Investment: 600
+Stock: AMZN, Quantity: 4, Price: 200, Investment: 800
+
+Total Investment Value: 6000
